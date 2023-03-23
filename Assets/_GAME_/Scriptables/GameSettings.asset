@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5508df16c8454424a8fd504462de42c8, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  spinSpeed: 15
+  useEaseIn: 1
+  speedIn: 3
+  useEaseOut: 1
+  speedOut: 3
+  spinDuration: {x: 2, y: 4}
+  delayAmongSlots: 0.5
+  resources:
+  - type: 0
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: b69755a43e64b07418ff270af24e7f88, type: 3}
+  - type: 1
+    background: {fileID: 21300000, guid: e6913af816176c04ab01e34cb7c1e6d8, type: 3}
+    icon: {fileID: 21300000, guid: 43bdb59f2639ede41a709cc58be83478, type: 3}
+  - type: 2
+    background: {fileID: 21300000, guid: 848c365b533968948ba117fe10692286, type: 3}
+    icon: {fileID: 21300000, guid: 4c9488004af79a84ba861e9bda8c71e2, type: 3}
+  - type: 3
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: 73991a93759592045a3d7eb85201c8cb, type: 3}
+  - type: 4
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: dbee05b1e7165ed41a5d16815e8a90ca, type: 3}
+  - type: 5
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: 1362b7d0e0fc61d459850e5c649876cc, type: 3}
+  - type: 6
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: c9e654fb83be67d42b0c24f89988ab93, type: 3}
+  - type: 7
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: ee713b70ba19eaf4a8effb37566c6093, type: 3}
+  - type: 8
+    background: {fileID: 0}
+    icon: {fileID: 21300000, guid: f04645c1044db7348b2c1ff27f855e1d, type: 3}
+  blurryData: []
